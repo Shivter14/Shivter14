@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on: ![Shivtanium](https://github.com/Shivter14/Shivtanium)
   
 ![Shivtanium Logo](https://raw.githubusercontent.com/Shivter14/Shivtanium/main/Shivtanium.png)
-- 🌱 I’m currently learning: *not much lol it's summer*
+- 🌱 I’m currently learning: *not much lol it's summer :)*
 - 💬 Ask me about:
 
   Batch programming
