@@ -25,3 +25,4 @@
 
 ![BPM logo](https://github.com/Shivter14/BPM/blob/main/BPM.png)
 
+[![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivter14&layout=donut&theme=panda&count_private=true&langs_count=16)](github.com/Shivter14/Shivtanium)
