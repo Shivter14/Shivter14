@@ -12,8 +12,7 @@
 
 - 🔭 I’m currently working on: ![Shivtanium](https://github.com/Shivter14/Shivtanium)
   
-<img align="right" width=512 src="https://raw.githubusercontent.com/Shivter14/Shivtanium/main/Shivtanium.png">
-<img align="right" width=512 src="https://github.com/Shivter14/BPM/blob/main/BPM.png">
+<img align="right" width=480 src="https://raw.githubusercontent.com/Shivter14/Shivtanium/main/Shivtanium.png">
 
 - 🌱 I’m currently learning: *not much lol it's summer :)*
 - 💬 Ask me about:
@@ -21,6 +20,8 @@
   Batch programming
 
   Shivtanium app programming
+
+<img align="right" width=480 src="https://github.com/Shivter14/BPM/blob/main/BPM.png">
 
 - 📫 How to reach me:
 
