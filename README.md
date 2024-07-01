@@ -12,7 +12,8 @@
 
 - 🔭 I’m currently working on: ![Shivtanium](https://github.com/Shivter14/Shivtanium)
   
-<img src="https://raw.githubusercontent.com/Shivter14/Shivtanium/main/Shivtanium.png">
+<img align="right" width=512 src="https://raw.githubusercontent.com/Shivter14/Shivtanium/main/Shivtanium.png">
+<img align="right" width=512 src="https://github.com/Shivter14/BPM/blob/main/BPM.png">
 
 - 🌱 I’m currently learning: *not much lol it's summer :)*
 - 💬 Ask me about:
@@ -29,5 +30,3 @@
   - As of now, I am 13 years old.
   - I created ![BPM - The Batch Package Manager](https://github.com/Shivter14/BPM)
   - I created ![MetroTyper - A czech fast-typing game](https://github.com/Shivter14/MetroTyper)
-
-![BPM logo](https://github.com/Shivter14/BPM/blob/main/BPM.png)
