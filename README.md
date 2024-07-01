@@ -1,8 +1,12 @@
-<div align="center"><b>
-  Hello there!
-  
-  I am a professional batch developer.
-</b></div>
+<div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivter14&layout=donut&theme=panda&count_private=true&langs_count=16">
+  <div align="center"><b>
+    
+    Hello there!
+    
+    I am a professional batch developer.
+  </b></div>
+</div>
 
 - 🔭 I’m currently working on: ![Shivtanium](https://github.com/Shivter14/Shivtanium)
   
@@ -24,5 +28,3 @@
   - I created ![MetroTyper - A czech fast-typing game](https://github.com/Shivter14/MetroTyper)
 
 ![BPM logo](https://github.com/Shivter14/BPM/blob/main/BPM.png)
-
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivter14&layout=donut&theme=panda&count_private=true&langs_count=16)
