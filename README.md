@@ -15,6 +15,7 @@
 <img align="right" width=480 src="https://raw.githubusercontent.com/Shivter14/Shivtanium/main/Shivtanium.png">
 
 - 🌱 I’m currently learning: *not much lol it's summer :)*
+
 - 💬 Ask me about:
 
   Batch programming
