@@ -10,7 +10,9 @@
 </div>
 <br></br>
 
-- 🔭 I’m currently working on: ![Shivtanium](https://github.com/Shivter14/Shivtanium)
+- 🔭 I’m currently working on:
+  - ![A full batch tutorial](https://youtu.be/zdygVs2Ajbs?si=oO-4qVDWnR6m4NCa)
+  - ![Shivtanium](https://github.com/Shivter14/Shivtanium)
   
 <img align="right" width=480 src="https://raw.githubusercontent.com/Shivter14/Shivtanium/main/Shivtanium.png">
 
