@@ -14,7 +14,7 @@
   
 <img align="right" width=480 src="https://raw.githubusercontent.com/Shivter14/Shivtanium/main/Shivtanium.png">
 
-- 🌱 I’m currently learning: *not much lol it's summer :)*
+- 🌱 I’m currently learning: Video editing
 
 - 💬 Ask me about:
 
