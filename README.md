@@ -24,8 +24,6 @@
 
   Batch programming
 
-  Shivtanium app programming
-
 <img align="right" width=480 src="https://github.com/Shivter14/BPM/blob/main/BPM.png">
 
 - 📫 How to reach me:
