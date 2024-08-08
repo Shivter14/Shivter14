@@ -26,7 +26,8 @@
 
 - 💬 Ask me about:
 
-  Batch programming
+  - Batch programming
+  - Video editing
 
 - 📫 How to reach me:
 
