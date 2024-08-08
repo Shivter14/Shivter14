@@ -20,7 +20,6 @@
 
   - ![Shivtanium - The most advanced Batch OS](https://github.com/Shivter14/Shivtanium)
 
-
 - 🌱 I’m currently learning: Video editing
 
 <img align="right" width=480 src="https://github.com/Shivter14/BPM/blob/main/BPM.png">
