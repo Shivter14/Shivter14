@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on:
 
-<img align="right" width=480 src="https://raw.githubusercontent.com/Shivter14/Shivtanium/main/Shivtanium.png">
+<img align="right" width=420 src="https://raw.githubusercontent.com/Shivter14/Shivtanium/main/Shivtanium.png">
 
   - ![A full batch tutorial on YouTube](https://youtu.be/zdygVs2Ajbs?si=oO-4qVDWnR6m4NCa)
 
@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning: Video editing
 
-<img align="right" width=480 src="https://github.com/Shivter14/BPM/blob/main/BPM.png">
+<img align="right" width=420 src="https://github.com/Shivter14/BPM/blob/main/BPM.png">
 
 - 💬 Ask me about:
 
