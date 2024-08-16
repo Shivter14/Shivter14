@@ -16,9 +16,9 @@
 
 <img align="right" width=420 src="https://raw.githubusercontent.com/Shivter14/Shivtanium/main/Shivtanium.png">
 
-  - ![A full batch tutorial on YouTube](https://youtu.be/zdygVs2Ajbs?si=oO-4qVDWnR6m4NCa)
+  - [A full batch tutorial on YouTube](https://youtu.be/zdygVs2Ajbs?si=oO-4qVDWnR6m4NCa)
 
-  - ![Shivtanium - The most advanced Batch OS](https://github.com/Shivter14/Shivtanium)
+  - [Shivtanium - The most advanced Batch OS](https://github.com/Shivter14/Shivtanium)
 
 - 🌱 I’m currently learning: Video editing
 
@@ -31,7 +31,7 @@
 
 - 📫 How to reach me:
 
-  I'm active on: ![the server.bat discord server](https://discord.gg/cQNj5C3wtS)
+  I'm active on: [the server.bat discord server](https://discord.gg/cQNj5C3wtS)
 
 - ⚡ Fun facts:
 
