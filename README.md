@@ -32,7 +32,7 @@
 
 - 📫 How to reach me:
 
-  I'm active on: [the server.bat discord server](https://discord.gg/cQNj5C3wtS)
+  I'm active on: [the server.bat discord server](https://discord.gg/batch)
 
 - ⚡ Fun facts:
 
