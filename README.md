@@ -1,11 +1,9 @@
 <div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivter14&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
-  
   <div align="center"><b>
-    
-    Hello there!
-    
-    I am a professional batch developer.
+
+### Hello there!
+
+### I am a professional batch developer.
 
   </b></div>
 </div>
