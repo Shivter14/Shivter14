@@ -38,4 +38,4 @@
   
   - I created [BPM - A Batch Package Manager](https://github.com/Shivter14/BPM).
   
-  - I created [MetroTyper - A czech fast-typing game](https://github.com/Shivter14/MetroTyper)
+  - I created [MetroTyper - A czech fast-typing game](https://github.com/Shivter14/MetroTyper).
