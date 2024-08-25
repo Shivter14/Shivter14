@@ -71,7 +71,34 @@ for /l %%# in () do (
 ```
 
 ## Controller input
-< documentation comming soon >
+GetInput can get input from up to 4 controllers.
+
+Controller ports may be assigned in any order, but if possible preferably starting with the controller which has been plugged in for the longest.
+
+If controllers 1 and 2 are connected, controller 1 is disconnected, controller 2 should stay as controller 2, and the next connected controller becomes controller 1.
+
+As for output, two-state face buttons such as ABXY, select, option, the XBox logo button, and LB/RB should be in the `controllerX_buttons` variable
+Ihis variable is in the format of `-A-B-SELECT-LB-` with only the held buttons being present in the variable.
+
+The order of these buttons if all are pressed are `-A-B-X-Y-LB-RB-DPADUP-DPADDOWN-DPadLeft-DPADRIGHT-LSTICKDOWN-RSTICKDOWN-SEL-OPTIONS-HOME-`
+
+For non two-state stuff (sticks and triggers), these will be stored in the `controllerX_numbers` variable.
+
+This variable is in the format of: `-0-0-0-0-0-0-`
+
+This variables doesn't vary in entries like the others do, it should always have 6 values inside.
+
+The first 0 is the left bumper trigger,
+
+the second 0 is the right bumper trigger,
+
+the third 0 is the left stick X,
+
+the fourth 0 is the left stick Y,
+
+the fifth 0 is the right stick X,
+
+the sixth 0 is the right stick Y.
 
 <div align="right">
 
