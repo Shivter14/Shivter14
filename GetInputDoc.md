@@ -71,7 +71,7 @@ for /l %%# in () do (
 ```
 
 ## Controller input
-< documentation comming soon >
+< documentation coming soon >
 
 <div align="right">
 
