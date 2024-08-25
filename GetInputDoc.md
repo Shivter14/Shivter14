@@ -102,5 +102,11 @@ the sixth 0 is the right stick Y.
 
 <div align="right">
 
+## Tips & Tricks
+If you want to check if specific keys are held, Save the `keysPressed` variable to some thing else (`last.keysPressed` in this example) and use this (example key: ESC):
+```bat
+if defined last.keysPressed if "!last.keysPressed!" neq "!last.keysPressed:-27-=!"
+```
+
 Copyright Shivter 2021 - 2024 | Sources: [ANSI Escape Codes by fnky](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797#cursor-controls)
 </div>
