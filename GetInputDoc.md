@@ -50,7 +50,12 @@ for /l %%# in () do (
 ## Keyboard input
 Of course, what would be user input without keypresses?
 
-We can get key input by parsing the `keysPressed` variable which contains keycodes of keys that are currently *held*. Keep that in mind.
+We can get key input by parsing the `keysPressed` variable which contains keycodes of keys that are currently *held*, surrounded & seperated by dashes (`-`). Keep that in mind.
+
+Examples:
+- When ESC is held: `-27-`
+- When A is held: `-65-`
+- When SHIFT + A is held: `-16-65-`
 ```bat
 @echo off & setlocal enableDelayedExpansion
 if exist getInput64.dll rundll32.exe "getInput64.dll",inject
