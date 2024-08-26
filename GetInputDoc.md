@@ -109,6 +109,10 @@ To detect if controller 1 is holding A, we can do:
 ```bat
 if defined controller1_buttons if NOT "!controller1_buttons!"=="!controller1_buttons:-A-=!" ...
 ```
+To detect if controller 1 is holding A, B, and LB, we can do:
+```bat
+if defined controller1_buttons if NOT "!controller1_buttons!"=="!controller1_buttons:-A-B-LB-=!"
+```
 
 <div align="right">
 
