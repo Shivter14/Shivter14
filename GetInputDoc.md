@@ -105,6 +105,10 @@ If you want to check if specific keys are held, Save the `keysPressed` variable 
 ```bat
 if defined last.keysPressed if "!last.keysPressed!" neq "!last.keysPressed:-27-=!" ...
 ```
+To detect if controller 1 is holding A, we can do:
+```bat
+if defined controller1_buttons if NOT "!controller1_buttons!"=="!controller1_buttons:-A-=!" ...
+```
 
 <div align="right">
 
