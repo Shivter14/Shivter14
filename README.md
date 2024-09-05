@@ -19,7 +19,7 @@
   
   - [A full batch tutorial on YouTube](https://youtu.be/zdygVs2Ajbs?si=oO-4qVDWnR6m4NCa)
 
-- 🌱 I’m currently learning: Video editing
+- 🌱 I’m currently learning: Stuff in school
 
 <img align="right" width=420 src="https://github.com/Shivter14/BPM/blob/main/BPM.png">
 
