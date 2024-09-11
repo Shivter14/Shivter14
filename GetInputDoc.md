@@ -69,7 +69,18 @@ for /l %%# in () do (
   echo=%\e%[H%\e%[2KKeys pressed: !keysPressed!
 )
 ```
+## Scroll wheel input
+You can get the mouse's scroll wheel input with the `scroll` variable.
 
+The `scroll` variable behaves quite strangely.
+Scrolling down sets this variable to `-1`, and scrolling up sets it to `1`.
+No matter how high you scroll, it will be set to `1`.
+
+When you stop scrolling it will not be reset to 0. However, you can set this variable to 0.
+
+After that, if you're still scrolling or scroll again, the value will be changed once again.
+
+[more documentation coming soon]
 ## Controller input
 GetInput can get input from up to 4 controllers.
 
