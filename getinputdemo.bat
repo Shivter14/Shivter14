@@ -46,19 +46,19 @@ for /f "tokens=1-4 delims=:.," %%a in ("!time: =0!") do set /a "t2=(((1%%a*60)+1
 	set currentMouseY=!mouseYpos!
 	
 	Rem Write-only code. Do not attempt to read, you will get cancer.
-	if "!highlited!" neq "True" (
+	if "!highlighted!" neq "True" (
 		if !currentMouseY! geq !y! if !currentMouseY! leq !by! if !currentMouseX! geq !x! if !currentMouseX! leq !bx! (
 			echo=%\e%[!y!;!x!H%\e%[48;2;0;0;0;38;2;255;255;255m%\e%7            %\e%8%\e%[B   Button   %\e%8%\e%[2B            %\e%[H
-			set highlited=True
+			set highlighted=True
 		)
 	)
-	if "!highlited!"=="True" (
+	if "!highlighted!"=="True" (
 		%= Checking if we're not hovering over the button =%
-		set highlited=False
+		set highlighted=False
 		if !currentMouseY! geq !y! if !currentMouseY! leq !by! if !currentMouseX! geq !x! if !currentMouseX! leq !bx! (
-			set highlited=True
+			set highlighted=True
 		)
-		if "!highlited!"=="False" echo=%\e%[!y!;!x!H%\e%[38;2;0;0;0;48;2;127;127;127m%\e%7            %\e%8%\e%[B   Button   %\e%8%\e%[2B            %\e%[H
+		if "!highlighted!"=="False" echo=%\e%[!y!;!x!H%\e%[38;2;0;0;0;48;2;127;127;127m%\e%7            %\e%8%\e%[B   Button   %\e%8%\e%[2B            %\e%[H
 	)
 	Rem Displaying keyboard and mouse information
 	if !mouseXpos! gtr 0 if !mouseXpos! leq !this.modeW! if !mouseYpos! gtr 0 if !mouseYpos! leq !this.modeH! set /a scrollpos+=wheelDelta
