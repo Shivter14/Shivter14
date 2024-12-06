@@ -35,7 +35,7 @@
 
 - ⚡ Fun facts:
 
-  - As of now, I am 13 years old.
+  - As of now, I am 14 years old.
   
   - I created [BPM - A Batch Package Manager](https://github.com/Shivter14/BPM).
   
