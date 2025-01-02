@@ -72,13 +72,12 @@ for /l %%# in () do (
 ## Scroll wheel input
 You can get the mouse's scroll wheel input with the `scroll` variable.
 
-The `scroll` variable behaves quite strangely.
-Scrolling down sets this variable to `-1`, and scrolling up sets it to `1`.
-No matter how high you scroll, it will be set to `1`.
+When the user scrolls down with any mouse, the `scroll` variable is set to `-1` no matter how much the user scrolls.
+The same applies for scrolling upwards with `1`.
 
-When you stop scrolling it will not be reset to 0. However, you can set this variable to 0.
+The variable will stay in that state, until that variable is changed by a batch script back to 0.
 
-After that, if you're still scrolling or scroll again, the value will be changed once again.
+Changing the variable to 0 at the end of every frame and checking the variable if it's not 0 can be used for detecting scrolling.
 
 [more documentation coming soon]
 ## Controller input
@@ -127,5 +126,5 @@ if defined controller1_buttons if NOT "!controller1_buttons!"=="!controller1_but
 
 <div align="right">
 
-Copyright Shivter 2021 - 2024 | Sources: [ANSI Escape Codes by fnky](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797#cursor-controls)
+Copyright Shivter 2021 - 2025 | Sources: [ANSI Escape Codes by fnky](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797#cursor-controls)
 </div>
