@@ -13,6 +13,8 @@
 <img align="right" width=420 src="https://raw.githubusercontent.com/Shivter14/Shivtanium/main/Shivtanium.png">
 
 - 🔭 I’m currently working on:
+  - My Minecraft Server! IP: `shivtanium.dynv6.net` | 1.21.x | Bedrock Compatible on default port
+  
   - [Shivtanium - The most advanced Batch OS](https://github.com/Shivter14/Shivtanium)
     
   - [GetInput64.dll Documentation](https://github.com/Shivter14/Shivter14/blob/main/GetInputDoc.md)
