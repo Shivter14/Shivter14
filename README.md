@@ -3,7 +3,7 @@
 
 ### Hello there!
 
-### I am a professional batch developer.
+### I am a batch programmer, and a Minecraft server owner.
 
   </b></div>
 </div>
