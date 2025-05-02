@@ -5,6 +5,7 @@
 
 ### I am a batch programmer, and a Minecraft server owner.
 
+(and I can center a div)
   </b></div>
 </div>
 
