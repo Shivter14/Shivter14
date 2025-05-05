@@ -14,8 +14,8 @@
 <img align="right" width=420 src="https://raw.githubusercontent.com/Shivter14/Shivtanium/main/Shivtanium.png">
 
 - 🔭 I’m currently working on:
-  - My Minecraft Server! IP: `shivtanium.dynv6.net` | 1.21.x | Bedrock Compatible on default port
-    More info is on my website. https://shivtanium.dynv6.net
+  - My Minecraft Server! IP: `mc.shivtanium.eu` | 1.21.x | Bedrock Compatible on default port
+    More info is on my website. https://www.shivtanium.eu
   
   - [Shivtanium - The most advanced Batch OS](https://github.com/Shivter14/Shivtanium)
     
