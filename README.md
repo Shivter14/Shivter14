@@ -3,7 +3,7 @@
 
 ### Hello there!
 
-### I am a batch programmer, and a Minecraft server owner.
+### I am a Minecraft server owner, and I do cool stuff in Batch.
 
 (and I can center a div)
   </b></div>
@@ -38,8 +38,6 @@
   I'm active on [the server.bat discord server](https://discord.gg/batch).
 
 - ⚡ Fun facts:
-
-  - As of now, I am 14 years old.
   
   - I created [BPM - A Batch Package Manager](https://github.com/Shivter14/BPM).
   
