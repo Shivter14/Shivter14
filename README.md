@@ -15,15 +15,15 @@
 
 - 🔭 I’m currently working on:
   - My Minecraft Server! IP: `mc.shivtanium.eu` | 1.21.x | Bedrock Compatible on default port
-    More info is on my website. https://www.shivtanium.eu
+    More info is on my website.
+    
+    https://www.shivtanium.eu
   
   - [Shivtanium - The most advanced Batch OS](https://github.com/Shivter14/Shivtanium)
     
   - [GetInput64.dll Documentation](https://github.com/Shivter14/Shivter14/blob/main/GetInputDoc.md)
   
   - [A full batch tutorial on YouTube](https://youtu.be/zdygVs2Ajbs?si=oO-4qVDWnR6m4NCa)
-
-- 🌱 I’m currently learning about: Minecraft Server Developement
 
 <img align="right" width=420 src="https://github.com/Shivter14/BPM/blob/main/BPM.png">
 
@@ -35,7 +35,7 @@
 
 - 📫 How to reach me:
 
-  I'm active on [the server.bat discord server](https://discord.gg/batch).
+  I'm active on [the server.bat discord server](https://discord.gg/batch) and [my Minecraft server's discord server](https://www.shivtanium.eu/discord).
 
 - ⚡ Fun facts:
   
